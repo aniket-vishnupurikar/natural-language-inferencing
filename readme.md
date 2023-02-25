@@ -8,10 +8,10 @@ Natural Language processing (NLP) is the area of computer science and artificial
 |Text (Premise)					  |			Hypothesis				|		Judgement (Label) |
 |										
 |A soccer game with multiple males playing. |	Some men are playing a sport.			|		entailment		|
-|-------------------------------------------|---------------------------------------------|-----------------------------|							  
+|							  
 |A black race car starts up in front of a   |	A man is driving down a lonely road.	|		contradiction	|
 |crowd of people.					  |								|					|
-|-------------------------------------------|---------------------------------------------|-----------------------------|							
+|							
 |An older and a younger man smiling.	  |	Two men are smiling and laughing at the	|		neutral		|
 |							  |	cats playing on the floor. 			|					|					
 |-------------------------------------------|---------------------------------------------|-----------------------------| 
